@@ -1,15 +1,43 @@
-##  Implement CICD Pipelines on Google Cloud Challenge Lab
-### Run the following Commands in CloudShell
+# 🌐 Implement CI/CD Pipelines on Google Cloud: Challenge Lab || GSP393 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.skills.google/focuses/52826?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=60970634)
 
-```
-export ZONE=
-```
-```
-curl -LO raw.githubusercontent.com/tejaswinimuddasani-ops/Cloud-Skills-2025/refs/heads/master/Implement%20CI%20CD%20Pipelines%20on%20Google%20Cloud%20Challenge%20Lab%20/tejaswinimuddasani-ops.sh
+## ⚠️ Disclaimer ⚠️
 
-sudo chmod +x tejaswinimuddasani-ops.sh
+<blockquote style="background-color: #fffbea; border-left: 6px solid #f7c948; padding: 1em; font-size: 15px; line-height: 1.5;">
+  <strong>Educational Purpose Only:</strong> This script and guide are provided for the educational purposes to help you understand the lab services and boost your career. Before using the script, please open and review it to familiarize yourself with Google Cloud services.
+  <br><br>
+  <strong>Terms Compliance:</strong> Always ensure compliance with Qwiklabs' terms of service and YouTube's community guidelines. The aim is to enhance your learning experience — not to circumvent it.
+</blockquote>
 
-./tejaswinimuddasani-ops.sh
+---
+
+<div style="padding: 15px; margin: 10px 0;">
+
+## ☁️ Run in Cloud Shell:
+
+```bash
+curl -LO raw.githubusercontent.com/tejaswinimuddasani-ops/Arcade-Google-Cloud-Labs/refs/heads/main/Implement%20CI-CD%20Pipelines%20on%20Google%20Cloud%3A%20Challenge%20Lab/Tejaswinimuddasani.sh
+sudo chmod +x tejaswinimuddasani.sh 
+./Tejaswinimuddasani.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !  
+</div>
+
+---
+
+## 🎉 **Congratulations! Lab Completed Successfully!** 🏆  
+
+<div style="text-align:center; padding: 10px 0; max-width: 640px; margin: 0 auto;">
+  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 14px;">📱 Join the Tech & Code</h3>
+
+  <a href="https://www.linkedin.com/in/tejaswini-muddasani-106a14292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="margin: 0 6px; display: inline-block;">
+  </a>
+    
+</div>
+
+---
+
+<div align="center">
+  <p style="font-size: 12px; color: #586069;">
+    <em>Last updated: DEC 2025</em>
+  </p>
+</div>
