@@ -5,7 +5,7 @@
 <blockquote style="background-color: #fffbea; border-left: 6px solid #f7c948; padding: 1em; font-size: 15px; line-height: 1.5;">
   <strong>Educational Purpose Only:</strong> This script and guide are provided for the educational purposes to help you understand the lab services and boost your career. Before using the script, please open and review it to familiarize yourself with Google Cloud services.
   <br><br>
-  <strong>Terms Compliance:</strong> Always ensure compliance with Qwiklabs' terms of service and YouTube's community guidelines. The aim is to enhance your learning experience — not to circumvent it.
+  <strong>Terms Compliance:</strong> Always ensure compliance with Qwiklabs' terms of service .
 </blockquote>
 
 ---
@@ -27,7 +27,7 @@ sudo chmod +x tejaswinimuddasani.sh
 ## 🎉 **Congratulations! Lab Completed Successfully!** 🏆  
 
 <div style="text-align:center; padding: 10px 0; max-width: 640px; margin: 0 auto;">
-  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 14px;">📱 Join the Tech & Code</h3>
+  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 14px;"></h3>
 
   <a href="https://www.linkedin.com/in/tejaswini-muddasani-106a14292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="margin: 0 6px; display: inline-block;">
   </a>
